@@ -1,4 +1,4 @@
-The __Rich-ID Interactivity__ project aims at providing scalable solution for providing body-centric applications in human-computer interaction and ubiquitous computing by repurposing the state-of-the-art radio-frequency identification (RFID) technologies.
+The __Rich-ID Interactivity__ project aims at providing scalable solutions for providing body-centric applications in human-computer interaction and ubiquitous computing by repurposing the state-of-the-art radio-frequency identification (RFID) technologies.
 
 ![Overview](/figures/overview.png)
 
@@ -14,7 +14,7 @@ __[Combining Touchscreens with Passive Rich-ID Building Blocks to Support Contex
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5IQ4UVGz1zk/0.jpg)](https://www.youtube.com/watch?v=5IQ4UVGz1zk)
 
-__[RFTouchPads: Batteryless and Wireless Modular Touch Sensor Pads Based on RFID (UIST '19 Paper)](https://ronghaoliang.page/projects/RFIMatch/)__
+__[RFTouchPads: Batteryless and Wireless Modular Touch Sensor Pads Based on RFID (UIST '19 Paper)](https://ronghaoliang.page/projects/RFTouchPads/)__
 - Meng-Ju Hsieh, Jr-Ling Guo, Chin-Yuan Lu, Han-Wei Hsieh, Rong-Hao Liang, Bing-Yu Chen
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4n0yRLGZ8Gk/0.jpg)](https://www.youtube.com/watch?v=4n0yRLGZ8Gk)
