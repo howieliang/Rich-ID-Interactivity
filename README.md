@@ -1,4 +1,3 @@
-# Rich-ID-Interactivity
 The __Rich-ID Interactivity__ project aims at providing scalable solution for providing body-centric applications in human-computer interaction and ubiquitous computing by repurposing the state-of-the-art radio-frequency identification (RFID) technologies.
 ![Overview](/figures/overview.png)
 
