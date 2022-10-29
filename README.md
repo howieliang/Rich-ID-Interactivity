@@ -4,18 +4,19 @@ The __Rich-ID Interactivity__ project aims at providing scalable solutions for p
 
 ## Selected Papers
 
-__[NFCStack: Identifiable Physical Building Blocks that Support Concurrent Construction and Frictionless Interaction (ACM UIST '22 Paper)](https://howieliang.github.io/projects/NFCStack/)__
+__[NFCStack: Identifiable Physical Building Blocks that Support Concurrent Construction and Frictionless Interaction (ACM UIST '22 Paper)](https://howieliang.github.io/PersonalPage/projects/NFCStack/)__
 - Chi-Jung Lee, Rong-Hao Liang, Ling-Chien Yang, Chi-Huan Chiang, Te-Yen Wu, Bing-Yu Chen
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ta9pEGWFdo8/0.jpg)](https://www.youtube.com/watch?v=ta9pEGWFdo8)
 
 
-__[Body-Centric NFC: Body-Centric Interaction with NFC Devices Through Near-Field Enabled Clothing (ACM DIS '22 Paper)](https://howieliang.github.io/projects/BodyCentricNFC/)__
+__[Body-Centric NFC: Body-Centric Interaction with NFC Devices Through Near-Field Enabled Clothing (ACM DIS '22 Paper)](https://howieliang.github.io/PersonalPage/projects/BodyCentricNFC/)__
 - Huizhong Ye\*, Chi-Jung Lee\*, Te-Yen Wu\*, Xing-Dong Yang, Bing-Yu Chen, Rong-Hao Liang (\*: contributed equally)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1rdFMAhk5WU/0.jpg)](https://www.youtube.com/watch?v=1rdFMAhk5WU)
 
-__[Body-Centric NFC: Body-Centric Interaction with NFC Devices Through Near-Field Enabled Clothing (ACM DIS '22 Paper)](https://howieliang.github.io/NFCSense/)__
+__[NFCSense: Data-Defined Rich-ID Motion Sensing for Fluent Tangible Interaction Using a Commodity NFC Reader
+ (ACM CHI '21 Paper)](https://howieliang.github.io/NFCSense/)__
 - Rong-Hao Liang, Zengrong Guo
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8eCY8QbDzgg/0.jpg)](https://www.youtube.com/watch?v=8eCY8QbDzgg)
