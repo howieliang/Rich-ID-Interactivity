@@ -6,6 +6,7 @@ The __Rich-ID Interactivity__ project aims at providing scalable solutions for p
 
 __[NFCStack: Identifiable Physical Building Blocks that Support Concurrent Construction and Frictionless Interaction (ACM UIST '22 Paper)](https://howieliang.github.io/projects/NFCStack/)__
 - Chi-Jung Lee, Rong-Hao Liang, Ling-Chien Yang, Chi-Huan Chiang, Te-Yen Wu, Bing-Yu Chen
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ta9pEGWFdo8/0.jpg)](https://www.youtube.com/watch?v=ta9pEGWFdo8)
 
 
